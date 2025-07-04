@@ -1,4 +1,5 @@
 # Welcome to Soolo AS
+![image](https://github.com/user-attachments/assets/f446a5ea-3c05-44c8-9703-b5aa5ca0b223)
 
 Soolo AS is dedicated to saving you costs, time, and emissions through innovative solutions. Our real-time data makes planning effortless for you and your suppliers. Soolo sensors measure everything from 20-liter buckets to tanks holding millions of liters.
 
